@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="vitalstep_external_files" path="." />
+    <external-cache-path name="vitalstep_external_cache" path="." />
+    <cache-path name="vitalstep_cache" path="." />
+    <files-path name="vitalstep_files" path="." />
+</paths>
